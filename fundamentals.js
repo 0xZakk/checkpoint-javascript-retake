@@ -2,7 +2,7 @@
 
 // #1: Create an array of strings called `colors` that contains three colors.
 // Type your solution immediately below this line:
-
+console.log('burn the system!')
 
 
 // #2: Access the last item in the array and assign to a variable called `lastColor`.
